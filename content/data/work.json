@@ -1,0 +1,26 @@
+[
+  {
+    "title": "XChange",
+    "description": "The redesigned media package website for XChange.",
+    "image": "xchange.png",
+    "technology": ["VueJS", "Bootstrap"],
+    "url": "http://xchange.com.tw/",
+    "body": "<p>A website originally designed by some friends of XChange founder Theon, with the intention of it becoming another information channel. However, it turned out that Facebook was still the preferred channel to update such information, so plans were made to revamp this website. While redesigning the website to align more with a modern style, the new purpose of the website was also to serve as a media package, which would aid members in introducing XChange to potential partners.</p><p>With the help of two XChange members as a designer and a PM, the website was completed within 2 months. Since the old website was built on VueJS, it was more efficient to continue building under the same framework. Therefore, I learned how to write in VueJS and utilize existing plugins, such as vue-i18n.</p>"
+  },
+  {
+    "title": "Stihl Taiwan",
+    "description": "The revamped brand website for Stihl Taiwan.",
+    "image": "stihl.png",
+    "technology": ["React", "React Redux", "NodeJS", "Strapi"],
+    "url": "http://www.stihl.com.tw/",
+    "body": "<p>Melchers Trading GmbH (Taiwan Branch) had been the exclusive partner of well-known German brand Stihl for several years in Taiwan. With Stihl gaining brand reputation over time, it was time for a brand website overhaul to expand business going forward.</p><p>After meeting up with the client, it was clear that the website needed a CMS system for the client to manage information on the website, and an API for the website to interact with. We successfully accomplished the mission with the help of the open source NodeJS CMS <a href='https://strapi.io/'>Strapi</a> and a bit of React Redux.</p>"
+  },
+  {
+    "title": "LinkMyGoods",
+    "description": "LinkMyGoods is a CRM system designed to assist trading companies.",
+    "image": "linkmygoods.png",
+    "technology": ["Vanilla JS", "dc.js", "crossfilter", "d3.js", "SASS", "PHP", "MySQL"],
+    "url": "https://www.linkmygoods.com/",
+    "body": "<p>LinkMyGoods is a CRM system tailored to the needs of a trading company. With LinkMyGoods, every step of the trading process, from quotations, orders, shipment handling, to project management, can be completed with ease.</p><p>Having worked 3 years in Celinius on LinkMyGoods, I have <ul><li>developed new modules, including but not limited to: payment term configuration tool, auto SKU generation tool, order approval system, and more</li><li>revamped the layout of project management tool</li><li>built an interactive statistics chart with <a href='https://github.com/dc-js/dc.js'>dc.js</a>, a charting tool based on <a href='http://crossfilter.github.io/crossfilter/'>crossfilter</a> and <a href='https://d3js.org/'>d3.js</a></li></ul>Since our team uses an in-house library, I also have excellent understanding of vanilla javascript.</p>"
+  }
+]
